@@ -23,18 +23,13 @@ A finance chabot AI website that provides a clean and intuitive interface for ch
    ```bash
    npm install
    ```
-
-3. Create a `.env` file in the root directory and add your OpenAI API key:
-   ```
-   VITE_OPENAI_API_KEY=your_api_key_here
-   ```
-
-4. Start the development server:
+   
+3. Start the development server:
    ```bash
    npm run dev
    ```
-
-5. Open your browser and navigate to `http://localhost:5173`
+   
+4. Open your browser and navigate to `http://localhost:5173`
 
 ## Project Structure
 
